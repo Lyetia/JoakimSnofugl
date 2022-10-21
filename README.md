@@ -1,6 +1,9 @@
 - 👋 Hi, I’m me 👋
 - 🔹 I'm working on 3D stuff, sound stuff and prototyping stuff 🔹
-- Yes!
+-                                                                                                              Yes!
+-
+-
+- :)
 
 
 
